@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveTwitter", "RecursiveTwitter\RecursiveTwitter.csproj", "{3E43A6BB-CD2A-4B29-89E8-1AD571EA4B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E43A6BB-CD2A-4B29-89E8-1AD571EA4B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E43A6BB-CD2A-4B29-89E8-1AD571EA4B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E43A6BB-CD2A-4B29-89E8-1AD571EA4B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E43A6BB-CD2A-4B29-89E8-1AD571EA4B22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7677B8F8-6966-4F1A-87F2-C3FFB31E98FF}
+	EndGlobalSection
+EndGlobal
